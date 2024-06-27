@@ -26,9 +26,6 @@ The Meme Generator is a web application built with React that allows users to cr
 4. Adjust the text position and style as needed.
 5. Download the generated meme to your device.
 
-
-![Meme Generator Screenshot](link-to-your-screenshot.png)
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
